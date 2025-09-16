@@ -3,7 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mayurmewada.github.io/ci-test",
+  "homepage": "https://mayurmewada.github.io/ci-test/",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mayurmewada/ci-test.git"
+    },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
